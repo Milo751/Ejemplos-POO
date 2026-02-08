@@ -107,6 +107,8 @@ public class BankAccount {
                 " | Active: " + active;
     }
 
+
+
     // Métodos estáticos
 
     public static Integer getTotalAccounts() {
