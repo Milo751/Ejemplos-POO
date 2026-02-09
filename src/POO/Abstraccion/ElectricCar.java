@@ -1,4 +1,4 @@
-package POO;
+package POO.Abstraccion;
 
 public class ElectricCar implements Electric{
     private int batteryLevel;

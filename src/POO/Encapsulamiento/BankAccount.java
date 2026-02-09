@@ -1,4 +1,4 @@
-package POO;
+package POO.Encapsulamiento;
 
 public class BankAccount {
     protected String ownerName;

@@ -1,4 +1,4 @@
-package POO;
+package POO.Abstraccion;
 
 public abstract class Vehicle {
     private String brand;

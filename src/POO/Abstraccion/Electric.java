@@ -1,4 +1,4 @@
-package POO;
+package POO.Abstraccion;
 
 public interface Electric {
     int MAX_BATTERY_CAPACITY = 100;
